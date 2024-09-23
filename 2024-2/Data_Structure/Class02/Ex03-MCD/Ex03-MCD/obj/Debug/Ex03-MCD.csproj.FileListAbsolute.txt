@@ -1,0 +1,6 @@
+D:\programming\IADE\2024-2\Data_Structure\Class02\Ex03-MCD\Ex03-MCD\bin\Debug\Ex03_MCD.exe
+D:\programming\IADE\2024-2\Data_Structure\Class02\Ex03-MCD\Ex03-MCD\bin\Debug\Ex03_MCD.pdb
+D:\programming\IADE\2024-2\Data_Structure\Class02\Ex03-MCD\Ex03-MCD\obj\Debug\Ex03-MCD.csproj.AssemblyReference.cache
+D:\programming\IADE\2024-2\Data_Structure\Class02\Ex03-MCD\Ex03-MCD\obj\Debug\Ex03-MCD.csproj.CoreCompileInputs.cache
+D:\programming\IADE\2024-2\Data_Structure\Class02\Ex03-MCD\Ex03-MCD\obj\Debug\Ex03_MCD.exe
+D:\programming\IADE\2024-2\Data_Structure\Class02\Ex03-MCD\Ex03-MCD\obj\Debug\Ex03_MCD.pdb

@@ -1,0 +1,6 @@
+D:\programming\IADE\2024-2\Distributed Programming\Class 03\Ex01-Fatorial\Ex01-Fatorial\bin\Debug\Ex01_Fatorial.exe
+D:\programming\IADE\2024-2\Distributed Programming\Class 03\Ex01-Fatorial\Ex01-Fatorial\bin\Debug\Ex01_Fatorial.pdb
+D:\programming\IADE\2024-2\Distributed Programming\Class 03\Ex01-Fatorial\Ex01-Fatorial\obj\Debug\Ex01-Fatorial.csproj.AssemblyReference.cache
+D:\programming\IADE\2024-2\Distributed Programming\Class 03\Ex01-Fatorial\Ex01-Fatorial\obj\Debug\Ex01-Fatorial.csproj.CoreCompileInputs.cache
+D:\programming\IADE\2024-2\Distributed Programming\Class 03\Ex01-Fatorial\Ex01-Fatorial\obj\Debug\Ex01_Fatorial.exe
+D:\programming\IADE\2024-2\Distributed Programming\Class 03\Ex01-Fatorial\Ex01-Fatorial\obj\Debug\Ex01_Fatorial.pdb
