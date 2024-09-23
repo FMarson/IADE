@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example_simple_promise", "Example_simple_promise\Example_simple_promise.vcxproj", "{5B980DCF-4F6B-4F27-AD20-4E431605A2BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B980DCF-4F6B-4F27-AD20-4E431605A2BF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5B980DCF-4F6B-4F27-AD20-4E431605A2BF}.Debug|Win32.Build.0 = Debug|Win32
+		{5B980DCF-4F6B-4F27-AD20-4E431605A2BF}.Debug|x64.ActiveCfg = Debug|x64
+		{5B980DCF-4F6B-4F27-AD20-4E431605A2BF}.Debug|x64.Build.0 = Debug|x64
+		{5B980DCF-4F6B-4F27-AD20-4E431605A2BF}.Release|Win32.ActiveCfg = Release|Win32
+		{5B980DCF-4F6B-4F27-AD20-4E431605A2BF}.Release|Win32.Build.0 = Release|Win32
+		{5B980DCF-4F6B-4F27-AD20-4E431605A2BF}.Release|x64.ActiveCfg = Release|x64
+		{5B980DCF-4F6B-4F27-AD20-4E431605A2BF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal
