@@ -22,12 +22,86 @@ Requirements:
 - Demonstrate the execution of all three implementations with practical examples using different pairs of numbers.
 
  */
+using System.Diagnostics;
+using System;
+
 namespace Ex03_MCD
 {
     internal class Program
+    { 
+        
+    static void Main(string[] args)
     {
-        public static void Main(string[] args)
-        {
-        }
+        int a = 48; // Example input for first number
+        int b = 18; // Example input for second number
+
+        Console.WriteLine($"Calculating MCD of {a} and {b}...\n");
+
+        // Recursive implementation
+        Console.WriteLine("Recursive implementation:");
+        MeasureExecutionTime(() => {
+            Console.WriteLine($"Result: {MCDRecursive(a, b)}");
+        });
+
+        // Iterative implementation
+        Console.WriteLine("\nIterative implementation:");
+        MeasureExecutionTime(() => {
+            Console.WriteLine($"Result: {MCDIterative(a, b)}");
+        });
+
+        // Factorization implementation
+        Console.WriteLine("\nFactorization implementation:");
+        MeasureExecutionTime(() => {
+            Console.WriteLine($"Result: {MCDFactorization(a, b)}");
+        });
     }
+
+    static void MeasureExecutionTime(Action action)
+    {
+        Stopwatch stopwatch = new Stopwatch();
+        stopwatch.Start();
+        action();
+        stopwatch.Stop();
+        Console.WriteLine($"Time taken: {stopwatch.Elapsed.TotalMilliseconds} ms\n");
+    }
+
+    static int MCDRecursive(int a, int b)
+    {
+        if (a < 0 || b < 0) throw new ArgumentException("Input must be non-negative integers.");
+        if (b == 0) return a;
+        return MCDRecursive(b, a % b);
+    }
+
+    static int MCDIterative(int a, int b)
+    {
+        if (a < 0 || b < 0) throw new ArgumentException("Input must be non-negative integers.");
+        while (b != 0)
+        {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
+    }
+
+    static int MCDFactorization(int a, int b)
+    {
+        if (a < 0 || b < 0) throw new ArgumentException("Input must be non-negative integers.");
+        
+        // Get factors of both numbers
+        int mcd = 1;
+        for (int i = 2; i <= Math.Min(a, b); i++)
+        {
+            while (a % i == 0 && b % i == 0)
+            {
+                mcd *= i;
+                a /= i;
+                b /= i;
+            }
+        }
+        return mcd;
+    }
+}
+
+    
 }
