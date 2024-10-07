@@ -1,8 +1,1 @@
-﻿  server_3.cpp
-D:\programming\IADE\2024-2\Distributed_Programming\Class_05\version_3\server_3\server_3.cpp(19,59): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
-D:\programming\IADE\2024-2\Distributed_Programming\Class_05\version_3\server_3\server_3.cpp(27,40): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
-  Gerando código
-  Previous IPDB not found, fall back to full compilation.
-  All 147 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finalizada a geração de código
-  server_3.vcxproj -> D:\programming\IADE\2024-2\Distributed_Programming\Class_05\version_3\client_3\x64\Release\server_3.exe
+﻿
