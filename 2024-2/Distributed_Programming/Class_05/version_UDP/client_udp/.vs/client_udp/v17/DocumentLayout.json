@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\IADE\\2024-2\\Distributed_Programming\\Class_05\\version_UDP\\client_udp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8A3FB9-7B88-4811-AAC4-9B5207FD4BFB}|client_udp.vcxproj|D:\\programming\\IADE\\2024-2\\Distributed_Programming\\Class_05\\version_UDP\\client_udp\\client_udp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE8A3FB9-7B88-4811-AAC4-9B5207FD4BFB}|client_udp.vcxproj|solutionrelative:client_udp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A850B788-8800-4E34-B4DB-5D37EC589D6F}|..\\server_udp\\server_udp.vcxproj|D:\\programming\\IADE\\2024-2\\Distributed_Programming\\Class_05\\version_UDP\\server_udp\\server_udp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "server_udp.cpp",
+              "DocumentMoniker": "D:\\programming\\IADE\\2024-2\\Distributed_Programming\\Class_05\\version_UDP\\server_udp\\server_udp.cpp",
+              "RelativeDocumentMoniker": "..\\server_udp\\server_udp.cpp",
+              "ToolTip": "D:\\programming\\IADE\\2024-2\\Distributed_Programming\\Class_05\\version_UDP\\server_udp\\server_udp.cpp",
+              "RelativeToolTip": "..\\server_udp\\server_udp.cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwDAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T02:10:37.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "client_udp.cpp",
+              "DocumentMoniker": "D:\\programming\\IADE\\2024-2\\Distributed_Programming\\Class_05\\version_UDP\\client_udp\\client_udp.cpp",
+              "RelativeDocumentMoniker": "client_udp.cpp",
+              "ToolTip": "D:\\programming\\IADE\\2024-2\\Distributed_Programming\\Class_05\\version_UDP\\client_udp\\client_udp.cpp",
+              "RelativeToolTip": "client_udp.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T02:10:21.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
