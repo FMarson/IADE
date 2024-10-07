@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\IADE\\2024-2\\Distributed_Programming\\Class_05\\version_1\\client_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{410F7B40-2B9F-4ED4-997E-7B436CE3871C}|..\\server_1\\server_1.vcxproj|D:\\programming\\IADE\\2024-2\\Distributed_Programming\\Class_05\\version_1\\server_1\\server_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "server_1.cpp",
+              "DocumentMoniker": "D:\\programming\\IADE\\2024-2\\Distributed_Programming\\Class_05\\version_1\\server_1\\server_1.cpp",
+              "RelativeDocumentMoniker": "..\\server_1\\server_1.cpp",
+              "ToolTip": "D:\\programming\\IADE\\2024-2\\Distributed_Programming\\Class_05\\version_1\\server_1\\server_1.cpp",
+              "RelativeToolTip": "..\\server_1\\server_1.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T01:01:46.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

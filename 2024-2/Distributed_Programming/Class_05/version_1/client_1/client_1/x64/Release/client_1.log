@@ -1,0 +1,7 @@
+﻿  client_1.cpp
+D:\programming\IADE\2024-2\Distributed_Programming\Class_05\version_1\client_1\client_1.cpp(49,31): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  client_1.vcxproj -> D:\programming\IADE\2024-2\Distributed_Programming\Class_05\version_1\client_1\x64\Release\client_1.exe
