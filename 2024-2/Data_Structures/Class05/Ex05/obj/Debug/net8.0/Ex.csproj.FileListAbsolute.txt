@@ -1,0 +1,15 @@
+D:\programming\IADE\2024-2\Data_Structures\Class05\Ex05\bin\Debug\net8.0\Ex.exe
+D:\programming\IADE\2024-2\Data_Structures\Class05\Ex05\bin\Debug\net8.0\Ex.deps.json
+D:\programming\IADE\2024-2\Data_Structures\Class05\Ex05\bin\Debug\net8.0\Ex.runtimeconfig.json
+D:\programming\IADE\2024-2\Data_Structures\Class05\Ex05\bin\Debug\net8.0\Ex.dll
+D:\programming\IADE\2024-2\Data_Structures\Class05\Ex05\bin\Debug\net8.0\Ex.pdb
+D:\programming\IADE\2024-2\Data_Structures\Class05\Ex05\obj\Debug\net8.0\Ex.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\IADE\2024-2\Data_Structures\Class05\Ex05\obj\Debug\net8.0\Ex.AssemblyInfoInputs.cache
+D:\programming\IADE\2024-2\Data_Structures\Class05\Ex05\obj\Debug\net8.0\Ex.AssemblyInfo.cs
+D:\programming\IADE\2024-2\Data_Structures\Class05\Ex05\obj\Debug\net8.0\Ex.csproj.CoreCompileInputs.cache
+D:\programming\IADE\2024-2\Data_Structures\Class05\Ex05\obj\Debug\net8.0\Ex.sourcelink.json
+D:\programming\IADE\2024-2\Data_Structures\Class05\Ex05\obj\Debug\net8.0\Ex.dll
+D:\programming\IADE\2024-2\Data_Structures\Class05\Ex05\obj\Debug\net8.0\refint\Ex.dll
+D:\programming\IADE\2024-2\Data_Structures\Class05\Ex05\obj\Debug\net8.0\Ex.pdb
+D:\programming\IADE\2024-2\Data_Structures\Class05\Ex05\obj\Debug\net8.0\Ex.genruntimeconfig.cache
+D:\programming\IADE\2024-2\Data_Structures\Class05\Ex05\obj\Debug\net8.0\ref\Ex.dll
