@@ -1,0 +1,14 @@
+D:\programming\IADE\2024-2\Data_Structures\LinkedList\bin\Debug\net9.0\LinkedList.exe
+D:\programming\IADE\2024-2\Data_Structures\LinkedList\bin\Debug\net9.0\LinkedList.deps.json
+D:\programming\IADE\2024-2\Data_Structures\LinkedList\bin\Debug\net9.0\LinkedList.runtimeconfig.json
+D:\programming\IADE\2024-2\Data_Structures\LinkedList\bin\Debug\net9.0\LinkedList.dll
+D:\programming\IADE\2024-2\Data_Structures\LinkedList\bin\Debug\net9.0\LinkedList.pdb
+D:\programming\IADE\2024-2\Data_Structures\LinkedList\obj\Debug\net9.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\IADE\2024-2\Data_Structures\LinkedList\obj\Debug\net9.0\LinkedList.AssemblyInfoInputs.cache
+D:\programming\IADE\2024-2\Data_Structures\LinkedList\obj\Debug\net9.0\LinkedList.AssemblyInfo.cs
+D:\programming\IADE\2024-2\Data_Structures\LinkedList\obj\Debug\net9.0\LinkedList.csproj.CoreCompileInputs.cache
+D:\programming\IADE\2024-2\Data_Structures\LinkedList\obj\Debug\net9.0\LinkedList.dll
+D:\programming\IADE\2024-2\Data_Structures\LinkedList\obj\Debug\net9.0\refint\LinkedList.dll
+D:\programming\IADE\2024-2\Data_Structures\LinkedList\obj\Debug\net9.0\LinkedList.pdb
+D:\programming\IADE\2024-2\Data_Structures\LinkedList\obj\Debug\net9.0\LinkedList.genruntimeconfig.cache
+D:\programming\IADE\2024-2\Data_Structures\LinkedList\obj\Debug\net9.0\ref\LinkedList.dll
